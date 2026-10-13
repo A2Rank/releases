@@ -33,3 +33,6 @@ Windows **설정 → 앱**에서 A2Rank를 제거하거나, 트레이 아이콘 
 
 ## 문의
 arank8934@gmail.com
+
+## 오픈소스 고지
+사용한 오픈소스와 라이선스: [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md)
