@@ -12,7 +12,7 @@ A2Rank는 아래 오픈소스를 **고치지 않고 그대로** 포함합니다.
 | SQLite | 데이터베이스 엔진 | 퍼블릭 도메인 | SQLite 개발자 |
 | Velopack 1.2.161 | 설치와 자동 업데이트 | MIT | © Velopack Ltd, Caelan Sayler, Kevin Bost |
 
-패킷 캡처는 사용자가 따로 설치하는 **Npcap**(https://npcap.com)을 사용합니다. Npcap은 A2Rank에 포함되어 있지 않고, 자체 라이선스를 따릅니다.
+패킷 캡처는 사용자가 따로 설치하는 **Npcap**(https://npcap.com) 을 사용합니다. Npcap은 A2Rank에 포함되어 있지 않고, 자체 라이선스를 따릅니다.
 
 ## 라이선스 전문
 - MIT: https://opensource.org/license/mit
